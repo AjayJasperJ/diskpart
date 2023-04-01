@@ -1,0 +1,2 @@
+# diskpart
+reset crashed drive
